@@ -1,0 +1,28 @@
+h1{
+    color: red; 
+}
+
+div{
+    width: 50%;
+    margin-left: 25%; 
+}
+
+body{
+    text-transform: uppercase; 
+    background-color: black;
+    text-align: center; 
+}
+
+.font1{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+img{
+    width: 100%;
+    margin-top: 100px; 
+}
